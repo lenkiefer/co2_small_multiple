@@ -374,5 +374,5 @@ $ ->
   display = (data) ->
     plotData("#vis", data, plot)
 
-  d3.json("data/testdata.json", display)
+  d3.json("data/testdata2.json", display)
 
