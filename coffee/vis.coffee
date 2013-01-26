@@ -16,7 +16,7 @@ SmallMults = () ->
   graphHeight = 140
   # padding used underneath the bars to make space
   # for the names of the countries
-  yPadding = 50
+  yPadding = 20
   # placeholder for the data
   data = []
 
