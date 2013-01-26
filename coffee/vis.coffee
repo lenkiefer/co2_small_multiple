@@ -250,7 +250,7 @@ SmallMults = () ->
     graph.selectAll(".subtitle")
       .data([d]).enter()
       .append("text")
-      .text("#{formatNumber(d.share * 100)}% of Total Loans")
+      .text("#{formatNumber(d.Share * 100)}% of Total Loans")
       .attr("class", "subtitle")
       .attr("fill", (d) -> colorScale(d.Bank))
       .attr("text-anchor", "middle")
