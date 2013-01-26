@@ -2,22 +2,22 @@
 [
   {"year": 2006,
   "values": [
-    { "Bank": "BANK OF AMER CORP",
+    { "Bank": "B of A",
     "Count": 45127894,
   	"Share": 0.043674463
     },
       {
-    "Bank": "CITIGROUP",
+    "Bank": "CITI",
   	"Count": 18890125,
   	"Share": 0.018281732
   },
     {
-  	"Bank": "JPMORGAN CHASE & CO",
+  	"Bank": "CHASE",
   	"Count": 32377672,
   	"Share": 0.031334886
   },
   {
-  	"Bank": "SUNTRUST BK",
+  	"Bank": "SUNTRUST",
   	"Count": 22676196,
   	"Share": 0.021945865
   },
@@ -27,7 +27,7 @@
   	"Share": 0.007459297
   },
   {
-  	"Bank": "WELLS FARGO & CO",
+  	"Bank": "WELLS",
   	"Count": 78347963,
   	"Share": 0.075824615
   }
@@ -39,23 +39,23 @@
   
   
   {
-  	"Bank": "BANK OF AMER CORP",
+  	"Bank": "B of A",
   	"Count": 74715121,
   	"Share": 0.075907113
   },
   {
-  	"Bank": "CITIGROUP",
+  	"Bank": "CITI",
   	"Count": 24509228,
   	"Share": 0.024900244
   },
   {
-  	"Bank": "JPMORGAN CHASE & CO",
+  	"Bank": "CHASE",
   	"Year": 2007,
   	"Count": 41042700,
   	"Share": 0.041697488
   },
   {
-  	"Bank": "SUNTRUST BK",
+  	"Bank": "SUNTRUST",
    	"Count": 27974904,
   	"Share": 0.028421211
   },
@@ -65,7 +65,7 @@
   	"Share": 0.009446801
   },
   {
-  	"Bank": "WELLS FARGO & CO",
+  	"Bank": "WELLS",
   	"Count": 82696964,
   	"Share": 0.084016297
   }
