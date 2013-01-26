@@ -256,7 +256,7 @@ SmallMults = () ->
       .attr("text-anchor", "middle")
       .attr("dy", "3.8em")
       .attr("x", (d) -> graphWidth / 2)
-      .attr("font-size", 8)
+      .attr("font-size", 4)
 
   # ---
   # remove subtitle
