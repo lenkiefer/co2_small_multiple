@@ -40,20 +40,21 @@
   	"Bank": "WELLS FARGO & CO",
   	"Count": 78347963,
   	"Share": 0.075824615
+  }
+    ]
   },
-  ]
-  
+  {
+    "year": 2007,
+    "values": [
   
   
   {
   	"Bank": "BANK OF AMER CORP",
-  	"Year": 2007,
   	"Count": 74715121,
   	"Share": 0.075907113
   },
   {
   	"Bank": "CITIGROUP",
-  	"Year": 2007,
   	"Count": 24509228,
   	"Share": 0.024900244
   },
@@ -65,19 +66,16 @@
   },
   {
   	"Bank": "SUNTRUST BK",
-  	"Year": 2007,
-  	"Count": 27974904,
+   	"Count": 27974904,
   	"Share": 0.028421211
   },
   {
   	"Bank": "U S BC",
-  	"Year": 2007,
   	"Count": 9298455,
   	"Share": 0.009446801
   },
   {
   	"Bank": "WELLS FARGO & CO",
-  	"Year": 2007,
   	"Count": 82696964,
   	"Share": 0.084016297
   }
