@@ -4,32 +4,32 @@
   "values": [
     { "Bank": "B of A",
     "Count": 45127894.00,
-  	"Share": 0.043674463
+  	"Share": 0.0437
     },
       {
     "Bank": "CITI",
   	"Count": 18890125,
-  	"Share": 0.018281732
+  	"Share": 0.0183
   },
     {
   	"Bank": "CHASE",
   	"Count": 32377672,
-  	"Share": 0.031334886
+  	"Share": 0.0313
   },
   {
   	"Bank": "SUNTRUST",
   	"Count": 22676196,
-  	"Share": 0.021945865
+  	"Share": 0.0219
   },
   {
   	"Bank": "U S BC",
   	"Count": 7707533,
-  	"Share": 0.007459297
+  	"Share": 0.0075
   },
   {
   	"Bank": "WELLS",
   	"Count": 78347963,
-  	"Share": 0.075824615
+  	"Share": 0.0758
   }
     ]
   },
@@ -41,33 +41,33 @@
   {
   	"Bank": "B of A",
   	"Count": 74715121,
-  	"Share": 0.075907113
+  	"Share": 0.0759
   },
   {
   	"Bank": "CITI",
   	"Count": 24509228,
-  	"Share": 0.024900244
+  	"Share": 0.0249
   },
   {
   	"Bank": "CHASE",
   	"Year": 2007,
   	"Count": 41042700,
-  	"Share": 0.041697488
+  	"Share": 0.0416
   },
   {
   	"Bank": "SUNTRUST",
    	"Count": 27974904,
-  	"Share": 0.028421211
+  	"Share": 0.0284
   },
   {
   	"Bank": "U S BC",
   	"Count": 9298455,
-  	"Share": 0.009446801
+  	"Share": 0.0094
   },
   {
   	"Bank": "WELLS",
   	"Count": 82696964,
-  	"Share": 0.084016297
+  	"Share": 0.08401
   }
 ]
 }
