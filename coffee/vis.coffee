@@ -112,7 +112,7 @@ SmallMults = () ->
 
     # add the year title
     graph.append("text")
-      .text((d) -> d.Year)
+      .text((d) -> d.year)
       .attr("class", "title")
       .attr("text-anchor", "middle")
       .attr("x", graphWidth / 2)
