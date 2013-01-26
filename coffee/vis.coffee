@@ -106,7 +106,7 @@ SmallMults = () ->
       .attr("y", (d) -> (graphHeight - yScale(d.count) - yPadding))
       .attr("width", xScale.rangeBand())
       .attr("height", (d) ->  yScale(d.count))
-      .attr("fill", (d) -> colorScale(d.Baml))
+      .attr("fill", (d) -> colorScale(d.Bank))
       .on("mouseover", showAnnotation)
       .on("mouseout", hideAnnotation)
 
@@ -276,7 +276,7 @@ SmallMults = () ->
     # on the top of the bars
     yScale.domain([0,yMax + 500000])
 
-    names = data[0].values.map (d) -> d.name
+    names = data[0].values.map (d) -> d.Bank
     xScale.domain(names)
     colorScale.domain(names)
 
