@@ -13,10 +13,10 @@ SmallMults = () ->
   # size of the drawing area inside the svg's to make
   # the bar charts
   graphWidth = 180
-  graphHeight = 130
+  graphHeight = 140
   # padding used underneath the bars to make space
   # for the names of the countries
-  yPadding = 30
+  yPadding = 20
   # placeholder for the data
   data = []
 
