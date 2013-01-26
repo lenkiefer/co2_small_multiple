@@ -1,0 +1,218 @@
+[
+  {
+    "Bank": "BANK OF AMER CORP",
+  	"Year": 2006,
+  	"Count": 45127894,
+  	"Share": 0.043674463
+  },
+  {
+  	"Bank": "CITIGROUP",
+  	"Year": 2006,
+  	"Count": 18890125,
+  	"Share": 0.018281732
+  },
+  {
+  	"Bank": "JPMORGAN CHASE & CO",
+  	"Year": 2006,
+  	"Count": 32377672,
+  	"Share": 0.031334886
+  },
+  {
+  	"Bank": "SUNTRUST BK",
+  	"Year": 2006,
+  	"Count": 22676196,
+  	"Share": 0.021945865
+  },
+  {
+  	"Bank": "U S BC",
+  	"Year": 2006,
+  	"Count": 7707533,
+  	"Share": 0.007459297
+  },
+  {
+  	"Bank": "WELLS FARGO & CO",
+  	"Year": 2006,
+  	"Count": 78347963,
+  	"Share": 0.075824615
+  },
+  {
+  	"Bank": "BANK OF AMER CORP",
+  	"Year": 2007,
+  	"Count": 74715121,
+  	"Share": 0.075907113
+  },
+  {
+  	"Bank": "CITIGROUP",
+  	"Year": 2007,
+  	"Count": 24509228,
+  	"Share": 0.024900244
+  },
+  {
+  	"Bank": "JPMORGAN CHASE & CO",
+  	"Year": 2007,
+  	"Count": 41042700,
+  	"Share": 0.041697488
+  },
+  {
+  	"Bank": "SUNTRUST BK",
+  	"Year": 2007,
+  	"Count": 27974904,
+  	"Share": 0.028421211
+  },
+  {
+  	"Bank": "U S BC",
+  	"Year": 2007,
+  	"Count": 9298455,
+  	"Share": 0.009446801
+  },
+  {
+  	"Bank": "WELLS FARGO & CO",
+  	"Year": 2007,
+  	"Count": 82696964,
+  	"Share": 0.084016297
+  },
+  {
+  	"Bank": "BANK OF AMER CORP",
+  	"Year": 2008,
+  	"Count": 123990826,
+  	"Share": 0.133192077
+  },
+  {
+  	"Bank": "CITIGROUP",
+  	"Year": 2008,
+  	"Count": 23549893,
+  	"Share": 0.02529751
+  },
+  {
+  	"Bank": "JPMORGAN CHASE & CO",
+  	"Year": 2008,
+  	"Count": 47822224,
+  	"Share": 0.051371069
+  },
+  {
+  	"Bank": "SUNTRUST BK",
+  	"Year": 2008,
+  	"Count": 22608191,
+  	"Share": 0.024285925
+  },
+  {
+  	"Bank": "U S BC",
+  	"Year": 2008,
+  	"Count": 13669145,
+  	"Share": 0.01468352
+  },
+  {
+  	"Bank": "WELLS FARGO & CO",
+  	"Year": 2008,
+  	"Count": 131528619,
+  	"Share": 0.141289243
+  },
+  {
+  	"Bank": "BANK OF AMER CORP",
+  	"Year": 2009,
+  	"Count": 153848675,
+  	"Share": 0.112796744
+  },
+  {
+  	"Bank": "CITIGROUP",
+  	"Year": 2009,
+  	"Count": 16850466,
+  	"Share": 0.012354203
+  },
+  {
+  	"Bank": "JPMORGAN CHASE & CO",
+  	"Year": 2009,
+  	"Count": 46550748,
+  	"Share": 0.034129464
+  },
+  {
+  	"Bank": "SUNTRUST BK",
+  	"Year": 2009,
+  	"Count": 33386116,
+  	"Share": 0.024477593
+  },
+  {
+  	"Bank": "U S BC",
+  	"Year": 2009,
+  	"Count": 24243479,
+  	"Share": 0.017774514
+  },
+  {
+  	"Bank": "WELLS FARGO & CO",
+  	"Year": 2009,
+  	"Count": 207167719,
+  	"Share": 0.151888498
+  },
+  {
+  	"Bank": "BANK OF AMER CORP",
+  	"Year": 2010,
+  	"Count": 104652860,
+  	"Share": 0.085006368
+  },
+  {
+  	"Bank": CITIGROUP,
+  	"Year": 2010,
+  	"Count": 24855922,
+  	"Share": 0.020189717
+  },
+  {
+  	"Bank": "JPMORGAN CHASE & CO",
+  	"Year": 2010,
+  	"Count": 41802348,
+  	"Share": 0.033954789
+  },
+  {
+  	"Bank": "SUNTRUST BK",
+  	"Year": 2010,
+  	"Count": 19369300,
+  	"Share": 0.015733099
+  },
+  {
+  	"Bank": "U S BC",
+  	"Year": 2010,
+  	"Count": 26119840,
+  	"Share": 0.02121636
+  },
+  {
+  	"Bank": "WELLS FARGO & CO",
+  	"Year": 2010,
+  	"Count": 197216468,
+  	"Share": 0.160193
+  },
+  {
+  	"Bank": "BANK OF AMER CORP",
+  	"Year": 2011,
+  	"Count": 55109345,
+  	"Share": 0.054276363
+  },
+  {
+  	"Bank": "CITIGROUP",
+  	"Year": 2011,
+  	"Count": 19754627,
+  	"Share": 0.019456034
+  },
+  {
+  	"Bank": "JPMORGAN CHASE & CO",
+  	"Year": 2011,
+  	"Count": 42920911,
+  	"Share": 0.042272158
+  },
+  {
+  	"Bank": "SUNTRUST BK",
+  	"Year": 2011,
+  	"Count": 14359295,
+  	"Share": 0.014142253
+  },
+  {
+  	"Bank": "U S BC",
+  	"Year": 2011,
+  	"Count": 22363613,
+  	"Share": 0.022025585
+  },
+  {
+  	"Bank": "WELLS FARGO & CO",
+  	"Year": 2011,
+  	"Count": 149509963,
+  	"Share": 0.147250109
+  }
+]
