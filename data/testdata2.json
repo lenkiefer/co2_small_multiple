@@ -1,14 +1,4 @@
-[
-  {
-    "year": 1961,
-    "values": [
-      {
-        "code": "CHN",
-        "name": "China",
-        "value": 552066.85,
-        "percent_world": 0.059
-      },
-      
+    
 [
   {"year": 2006,
   "values": [
@@ -79,4 +69,6 @@
   	"Count": 82696964,
   	"Share": 0.084016297
   }
+]
+}
 ]
