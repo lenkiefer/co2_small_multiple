@@ -138,7 +138,7 @@ SmallMults = () ->
       .attr("y", graphHeight - yPadding)
       .attr("dy", "1.3em")
       .attr("x", (d) -> xScale(d.Bank) + xScale.rangeBand() / 2)
-      .attr("font-size", 8)
+      .attr("font-size", 4)
 
     # add values above bars
     graph.selectAll(".amount")
@@ -150,7 +150,7 @@ SmallMults = () ->
       .attr("y", (d) -> (graphHeight - yScale(d.Count) - yPadding))
       .attr("dy", (d) -> if yScale(d.Count) < 10 then "-0.3em" else "1.1em")
       .attr("x", (d) -> xScale(d.Bank) + xScale.rangeBand() / 2)
-      .attr("font-size", 5)
+      .attr("font-size", 4)
 
   # ---
   # Shows the detail view for a given element
